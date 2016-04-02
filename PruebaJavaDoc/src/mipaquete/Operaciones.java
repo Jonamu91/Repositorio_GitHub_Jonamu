@@ -6,7 +6,7 @@ package mipaquete;
  * @author Jonatan Amuchastegui Gil.
  * @version 2016.03.16
  */
-public class Operaciones {
+public class Operaciones {//cosas
 
 	private static final double SMI = 5322.234; //No se usa.
 	
